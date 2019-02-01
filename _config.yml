@@ -1,1 +1,2 @@
-theme: jekyll-theme-tactile
+gems:
+  - jekyll-redirect-from
